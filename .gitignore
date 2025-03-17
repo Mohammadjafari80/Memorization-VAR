@@ -1,0 +1,6 @@
+data
+VAR
+__pycache__
+*.csv
+*.pth
+*.ipynb
